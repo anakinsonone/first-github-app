@@ -19,3 +19,4 @@ To test the GitHub app, follow these steps:
 - Source Code: [GitHub Repository](https://github.com/anakinsonone/first-github-app)
 - Hosting: [Render](https://render.com/)
 - Created with [Probot](https://github.com/probot/probot) framework for Node.js.
+- [Watch the video!](https://youtu.be/nbatpmf6edE)
