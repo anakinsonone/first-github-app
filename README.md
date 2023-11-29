@@ -5,7 +5,7 @@ To test the GitHub app, follow these steps:
 
 2. Raise a new PR or comment on an existing PR review.
 
-3. Include the command '/explain' in the comment.
+3. Include the command `'/explain'` in the comment.
 
 4. The app will generate an explanation in response.
    - Note: Currently, the app only responds to the '/explain' command in PR review comments.
